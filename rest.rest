@@ -1,0 +1,9 @@
+Get http://localhost:3000/users/get_student
+
+########
+POST http://localhost:3000/users/create_student
+{
+    name: "musty",
+    other: "lala",
+    image: "jjdjd"
+}
