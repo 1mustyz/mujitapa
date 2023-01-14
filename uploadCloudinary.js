@@ -1,9 +1,9 @@
 const cloudinary = require('cloudinary');
 // cloudinary configuration for saving files
 cloudinary.config({
-    cloud_name: 'mustyz',
-    api_key: '727865786596545',
-    api_secret: 'HpUmMxoW8BkmIRDWq_g2-5J2mD8'
+    cloud_name: 'drwxitp8n',
+    api_key: '325286914776221',
+    api_secret: 'KxD1nlzIbZGVZWLIrmZNVN41rrs'
 })
 
 // this function returns the image path after upload
