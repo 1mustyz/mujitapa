@@ -5,9 +5,9 @@ const cloudinary = require('cloudinary');
 const Student = require('./models/student')
 // cloudinary configuration for saving files
 cloudinary.config({
-    cloud_name: 'dllkyarpl',
-    api_key: '376275134731454',
-    api_secret: 'QT1vszqflzLkEWBPUcoJw-Bin6w'
+  cloud_name: 'drwxitp8n',
+  api_key: '325286914776221',
+  api_secret: 'KxD1nlzIbZGVZWLIrmZNVN41rrs'
 })
 
 exports.createStudent = async (req, res) => {
